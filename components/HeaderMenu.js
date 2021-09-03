@@ -38,7 +38,7 @@ export default function HeaderMenu(props) {
         <meta property="og:title" content={props.restaurantName} />
         <meta property="og:description" content={description} />
         <meta property="og:image" content="/ogp.png" />
-        <meta name="twitter:image" content={url + "/ogp.png"} />
+        <meta name="twitter:image" content="/ogp.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

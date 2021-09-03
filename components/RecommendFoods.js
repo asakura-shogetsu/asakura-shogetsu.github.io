@@ -30,7 +30,7 @@ export default function RecommendFoods() {
         <Card
           pic="img/food/food1.jpg"
           title="うなぎ定食 <松>"
-          price="2,640円"
+          price="3,300円"
           description="カリッと焼き目のついたうなぎの蒲焼きをご堪能ください。" />
         <Card
           pic="img/food/food2.jpg"
@@ -56,7 +56,7 @@ export default function RecommendFoods() {
           pic="img/food/food5.jpg"
           title="会席料理"
           price="3850円"
-          description="お祝い・法要等の会席料理もご予約承ります。四季折々の旬の食材をお楽しみください。" />
+          description="お祝い・法要等の会席料理もご予約承ります。四季折々の旬の食材をお楽しみください。※その他、ご予算ご希望に応じます。お気軽にご相談ください。" />
 
       </div>
     </div>
