@@ -37,10 +37,10 @@ export default function HeaderMenu(props) {
         <meta property="og:description" content={description} />
         <meta property="og:image" content="/ogp.png" />
         <meta name="twitter:image" content={url + "/ogp.png"} />
-        <meta name="twitter:card" content="summary_large_image"/>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <meta name="twitter:card" content="summary_large_image" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
       <nav className="flex justify-between sm:items-stretch sm:justify-start flex-wrap p-2">
