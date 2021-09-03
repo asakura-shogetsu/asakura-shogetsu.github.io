@@ -1,0 +1,63 @@
+import Head from 'next/head'
+import { useState } from 'react'
+
+export default function HeaderMenu(props) {
+  const [menuExpanded, setMenuExpanded] = useState(false)
+
+  function HeaderMenu(props) {
+    return (
+      <div className="w-full block flex-grow sm:flex sm:items-center sm:w-auto">
+        <div className="text-md sm:flex-grow ml-5">
+          <a href="#notice" className="block mt-4 sm:inline-block sm:mt-2 text-teal-200 hover:text-white mr-4">
+            お知らせ
+          </a>
+          <a href="#representative-dishes" className="block mt-4 sm:inline-block sm:mt-2 text-teal-200 hover:text-white mr-4">
+            お品書き
+          </a>
+          <a href="#restaurant" className="block mt-4 sm:inline-block sm:mt-2 text-teal-200 hover:text-white">
+            店舗情報
+          </a>
+        </div>
+      </div>
+    );
+  }
+
+  const url = 'https://shogetsu.github.io'
+  const description = '福岡県朝倉市杷木にある「うなぎ料理 和食処 松月」です。創業80年余、和食と鰻の本格炭火焼を提供しております。和食全般に加え、創作料理、名物鰻の刺し身、洗い、肝の塩辛などの珍味もご用意しております。';
+
+  return (
+    <div>
+      <Head>
+        <title>{props.restaurantName}</title>
+        <link rel="icon" href="/logo_64.ico" />
+        <meta name="robots" content="noindex" />
+        <meta property="description" content={description} />
+        <meta property="og:url" content={url} />
+        <meta property="og:title" content={props.restaurantName} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content="/ogp.png" />
+        <meta name="twitter:image" content={url + "/ogp.png"} />
+        <meta name="twitter:card" content="summary_large_image"/>
+      </Head>
+
+      <nav className="flex justify-between sm:items-stretch sm:justify-start flex-wrap p-2">
+        <div className="flex items-center flex-shrink-0 text-white mr-6">
+          <img className="fill-current h-8 w-8 mr-2" width="32" height="32" src="img/logo_white.png" />
+          <span className="font-semibold text-2xl tracking-tight">{ props.restaurantName }</span>
+        </div>
+
+        <div className="hidden sm:block">
+          <HeaderMenu />
+        </div>
+
+        <div className="block sm:hidden">
+          <button className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white" onClick={() => setMenuExpanded(!menuExpanded)}>
+            <svg className="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>メニュー</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+          </button>
+        </div>
+
+        {menuExpanded && <HeaderMenu />}
+      </nav>
+    </div>
+  )
+}

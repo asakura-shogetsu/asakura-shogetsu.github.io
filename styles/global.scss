@@ -1,0 +1,82 @@
+$bg-color1: #16160e;
+$bg-color2: #f2f2b0;
+$font-dark: #16160e;
+$font-light: #eaf4fc;
+
+body {
+  background-color: $bg-color1;
+  color: $font-light;
+  font-family: "游明朝", YuMincho, "Hiragino Mincho ProN W3", "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  a {
+    color: $font-light;
+  }
+  a:link {
+    color: $font-light;
+  }
+  a:hover {
+    color: $bg-color2;
+  }
+}
+.bg-black {
+  background-color: $bg-color1;
+  color: $font-light;
+}
+.bg-yellow {
+  background-color: $bg-color2;
+  color: $font-dark;
+  a:link {
+    color: #0000ff;
+  }
+  a:hover {
+    color: #ff0000;
+  }
+}
+
+.vh40 {
+  height: 40vh;
+}
+.vh60 {
+  height: 60vh;
+}
+.vh80 {
+  height: 80vh;
+}
+.vh100 {
+  height: 100vh;
+}
+.restaurant-title {
+  position: relative;
+  margin: 0;
+  top: 0;
+  font-size: 36px;
+}
+.hero-photo {
+  z-index: -1;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: $font-light;
+}
+
+.notifications-box{
+    margin:2em 0;
+    position: relative;
+    padding: 0.5em 1.5em;
+    border-top: solid 2px black;
+    border-bottom: solid 2px black;
+}
+.notifications-box:before, .notifications-box:after{
+    content: '';
+    position: absolute;
+    top: -10px;
+    width: 2px;
+    height: -webkit-calc(100% + 20px);
+    height: calc(100% + 20px);
+    background-color: black;
+}
+.notifications-box:before {left: 10px;}
+.notifications-box:after {right: 10px;}
+.notifications-box p {
+    margin: 0;
+    padding: 0;
+}
