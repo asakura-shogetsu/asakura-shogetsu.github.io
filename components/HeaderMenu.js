@@ -22,7 +22,7 @@ export default function HeaderMenu(props) {
     );
   }
 
-  const url = 'https://shogetsu.github.io'
+  const url = 'https://asakura-shogetsu.github.io'
   const description = '福岡県朝倉市杷木にある「うなぎ料理 和食処 松月」です。創業80年余、和食と鰻の本格炭火焼を提供しております。和食全般に加え、創作料理、名物鰻の刺し身、洗い、肝の塩辛などの珍味もご用意しております。';
 
   return (
