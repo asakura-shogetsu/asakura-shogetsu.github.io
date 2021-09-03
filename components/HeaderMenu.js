@@ -31,8 +31,10 @@ export default function HeaderMenu(props) {
         <title>{props.restaurantName}</title>
         <link rel="icon" href="/logo_64.ico" />
         <meta name="robots" content="noindex" />
-        <meta property="description" content={description} />
+        <meta name="description" content={description} />
         <meta property="og:url" content={url} />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content={props.restaurantName + " HP"} />
         <meta property="og:title" content={props.restaurantName} />
         <meta property="og:description" content={description} />
         <meta property="og:image" content="/ogp.png" />
@@ -45,7 +47,7 @@ export default function HeaderMenu(props) {
 
       <nav className="flex justify-between sm:items-stretch sm:justify-start flex-wrap p-2">
         <div className="flex items-center flex-shrink-0 text-white mr-6">
-          <img className="fill-current h-8 w-8 mr-2" width="32" height="32" src="img/logo_white.png" />
+          <img className="fill-current h-8 w-8 mr-2" width="32" height="32" src="img/logo_white.png" alt="ロゴ" />
           <span className="font-semibold text-2xl tracking-tight">{ props.restaurantName }</span>
         </div>
 
