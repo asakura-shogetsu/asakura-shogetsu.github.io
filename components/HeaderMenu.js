@@ -42,14 +42,14 @@ export default function HeaderMenu(props) {
         <meta name="twitter:image" content="/ogp.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </Head>
 
       <nav className="flex justify-between sm:items-stretch sm:justify-start flex-wrap p-2">
         <div className="flex items-center flex-shrink-0 text-white mr-6">
           <img className="fill-current h-8 w-8 mr-2" width="32" height="32" src="img/logo_white.png" alt="ロゴ" />
-          <span className="font-semibold text-2xl tracking-tight">{ props.restaurantName }</span>
+          <span className="font-semibold text-xl sm:text-2xl tracking-tight">{ props.restaurantName }</span>
         </div>
 
         <div className="hidden sm:block">

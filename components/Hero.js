@@ -1,26 +1,11 @@
-import {useState, useEffect} from 'react'
+import isMobile from '../hooks/is-mobile';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore, { Autoplay, EffectFade, Pagination } from 'swiper/core';
 
 SwiperCore.use([Autoplay, EffectFade, Pagination]);
 
 export default function Hero() {
-  const widthThreshold = 640
-
-  const [width, setWidth] = useState(window.innerWidth)
-  const updateWidth = (event) => {
-    setWidth(window.innerWidth)
-  }
-  useEffect(() => {
-    window.addEventListener(`resize`, updateWidth, {
-      capture: false,
-      passive: true,
-    })
-
-    return () => window.removeEventListener(`resize`, updateWidth)
-  })
-
-  if (width < widthThreshold) {
+  if (isMobile()) {
     return (
       <div className="pb-6">
         <Swiper
