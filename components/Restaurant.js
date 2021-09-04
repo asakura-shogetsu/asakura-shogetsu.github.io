@@ -4,35 +4,35 @@ export default function Restaurant() {
       <div className='flex gap-y-4 justify-center flex-wrap p-4'>
         <div className="full lg:w-1/2 md:w-full grid">
           <ul className="list-disc">
-            <li className="mb-1">住所
-              <ul>
-                <li>〒838-1511 福岡県朝倉市杷木池田716-7</li>
+            <li className="mb-1 font-bold">住所
+              <ul className="font-normal">
+                <li>〒838-1511<br />福岡県朝倉市杷木池田716-7</li>
               </ul>
             </li>
-            <li className="mb-1">電話番号
-              <ul>
+            <li className="mb-1 font-bold">電話番号
+              <ul className="font-normal">
                 <li className="block sm:hidden"><a href="tel:0946-62-0381">0946-62-0381</a></li>
                 <li className="hidden sm:block">0946-62-0381</li>
               </ul>
             </li>
-            <li className="mb-1">アクセス
-              <ul>
+            <li className="mb-1 font-bold">アクセス
+              <ul className="font-normal">
                 <li>杷木ICから車で約2分</li>
                 <li>杷木バスセンターから徒歩約3分</li>
               </ul>
             </li>
-            <li className="mb-1">定休日
-              <ul>
+            <li className="mb-1 font-bold">定休日
+              <ul className="font-normal">
                 <li>不定休</li>
               </ul>
             </li>
-            <li className="mb-1">営業時間
-              <ul>
-                <li>11:30〜15:00 / 17:00〜22:00（ラストオーダー 21:30）</li>
+            <li className="mb-1 font-bold">営業時間
+              <ul className="font-normal">
+                <li>11:30〜15:00 / 17:00〜22:00<br />（ラストオーダー 21:30）</li>
               </ul>
             </li>
-            <li className="mb-1">駐車場
-              <ul>
+            <li className="mb-1 font-bold">駐車場
+              <ul className="font-normal">
                 <li>有り</li>
               </ul>
             </li>
