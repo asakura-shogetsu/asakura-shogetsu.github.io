@@ -8,13 +8,13 @@ export default function HeaderMenu(props) {
     return (
       <div className="w-full block flex-grow sm:flex sm:items-center sm:w-auto">
         <div className="text-md sm:flex-grow ml-5">
-          <a href="#notice" className="block mt-4 sm:inline-block sm:mt-2 text-teal-200 hover:text-white mr-4">
+          <a href="#notice" className="block mt-4 sm:inline-block sm:mt-2 sm:text-lg text-teal-200 hover:text-white mr-4">
             お知らせ
           </a>
-          <a href="#representative-dishes" className="block mt-4 sm:inline-block sm:mt-2 text-teal-200 hover:text-white mr-4">
+          <a href="#representative-dishes" className="block mt-4 sm:inline-block sm:mt-2 sm:text-lg text-teal-200 hover:text-white mr-4">
             お品書き
           </a>
-          <a href="#restaurant" className="block mt-4 sm:inline-block sm:mt-2 text-teal-200 hover:text-white">
+          <a href="#restaurant" className="block mt-4 sm:inline-block sm:mt-2 sm:text-lg text-teal-200 hover:text-white">
             店舗情報
           </a>
         </div>
@@ -30,7 +30,6 @@ export default function HeaderMenu(props) {
       <Head>
         <title>{props.restaurantName}</title>
         <link rel="icon" href="/logo_64.ico" />
-        <meta name="robots" content="noindex" />
         <meta name="keywords" content="うなぎ,鰻,和食,松月,福岡,朝倉,杷木,定食,創作料理,うなぎの刺身,ランチ,昼食,夕食" />
         <meta name="description" content={description} />
         <meta property="og:url" content={url} />

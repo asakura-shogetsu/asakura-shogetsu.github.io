@@ -29,6 +29,12 @@ export default function Restaurant() {
             <li className="mb-1 font-bold">営業時間
               <ul className="font-normal">
                 <li>11:30〜15:00 / 17:00〜22:00<br />（ラストオーダー 21:30）</li>
+                <li className="text-red-500">※新型コロナウイルス感染拡大等により、営業時間が記載と異なる場合がございます。ご来店時は事前に店舗にご確認ください。</li>
+              </ul>
+            </li>
+            <li className="mb-1 font-bold">支払い方法
+              <ul className="font-normal">
+                <li>カード可、電子マネー可（au PAY・d払い・メルペイ・PayPay）</li>
               </ul>
             </li>
             <li className="mb-1 font-bold">駐車場
@@ -36,10 +42,15 @@ export default function Restaurant() {
                 <li>有り</li>
               </ul>
             </li>
+            <li className="mb-1 font-bold">その他
+              <ul className="font-normal">
+                <li>子供用の椅子・バウンサーなどあります。</li>
+              </ul>
+            </li>
           </ul>
         </div>
         <div className="w-full xl:w-1/2 grid">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3332.355014596385!2d130.81029631557067!3d33.36179646124418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35416deb793f21c5%3A0xbd27783d9a2eeb58!2z5p2-5pyI!5e0!3m2!1sja!2sjp!4v1627391374231!5m2!1sja!2sjp" width="100%" height="450" allowFullScreen="" loading="lazy"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3332.355014596385!2d130.81029631557067!3d33.36179646124418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35416deb793f21c5%3A0xbd27783d9a2eeb58!2z5p2-5pyI!5e0!3m2!1sja!2sjp!4v1627391374231!5m2!1sja!2sjp" width="100%" height="500" allowFullScreen="" loading="lazy"></iframe>
         </div>
       </div>
     </div>
