@@ -1,11 +1,11 @@
-import isMobile from '../hooks/is-mobile';
+import {isMobile} from "react-device-detect";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore, { Autoplay, EffectFade, Pagination } from 'swiper/core';
 
 SwiperCore.use([Autoplay, EffectFade, Pagination]);
 
 export default function Hero() {
-  if (isMobile()) {
+  if (isMobile) {
     return (
       <div className="pb-6">
         <Swiper
