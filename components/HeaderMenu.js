@@ -40,6 +40,7 @@ export default function HeaderMenu(props) {
         <meta property="og:image" content="/ogp.png" />
         <meta name="twitter:image" content="/ogp.png" />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="google-site-verification" content="4mpKqxOyMuOED-kNzQgMb3Ejq7DgHxqbatWsW9dZp5Q" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&display=swap" rel="stylesheet" />
