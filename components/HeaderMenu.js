@@ -40,18 +40,20 @@ export default function HeaderMenu(props) {
         <meta property="og:image" content="/ogp.png" />
         <meta name="twitter:image" content="/ogp.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="google-site-verification" content="4mpKqxOyMuOED-kNzQgMb3Ejq7DgHxqbatWsW9dZp5Q" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600;700&display=swap" rel="stylesheet" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-N2ZWRGGYZ0"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-N2ZWRGGYZ0');
-        </script>
+        <meta name="google-site-verification" content="4mpKqxOyMuOED-kNzQgMb3Ejq7DgHxqbatWsW9dZp5Q" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-N2ZWRGGYZ0" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-N2ZWRGGYZ0');`,
+          }}
+        />
       </Head>
 
       <nav className="flex justify-between sm:items-stretch sm:justify-start flex-wrap p-2">
