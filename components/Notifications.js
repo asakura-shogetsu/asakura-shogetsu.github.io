@@ -9,7 +9,7 @@ export default function Notifications() {
               9月の定休日は8（水）、15（水）、21（火）、27（月）になります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              新型コロナウイルス感染症拡大防止のため、8月20日〜9月12日の間、酒類の提供は出来ません。また、営業時間は11〜15時・17〜20時となります。
+              新型コロナウイルス感染症拡大防止のため、8月20日〜9月30日の間、酒類の提供は出来ません。また、営業時間は11〜15時・17〜20時となります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               2021年9月4日、ホームページを公開しました。
