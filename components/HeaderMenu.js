@@ -28,8 +28,8 @@ export default function HeaderMenu(props) {
   return (
     <div>
       <Head>
-        <title>{props.restaurantName}</title>
-        <link rel="icon" href="/logo_64.ico" />
+        <title>{props.restaurantName} | 公式サイト</title>
+        <link rel="icon" href="/favicon.ico" />
         <meta name="keywords" content="うなぎ,ウナギ,鰻,和食,松月,福岡,朝倉,杷木,定食,創作料理,うなぎの刺身,ランチ,昼食,夕食" />
         <meta name="description" content={description} />
         <meta name="thumbnail" content="img/thumbnail.jpg" />
