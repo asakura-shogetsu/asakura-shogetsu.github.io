@@ -30,8 +30,9 @@ export default function HeaderMenu(props) {
       <Head>
         <title>{props.restaurantName}</title>
         <link rel="icon" href="/logo_64.ico" />
-        <meta name="keywords" content="うなぎ,鰻,和食,松月,福岡,朝倉,杷木,定食,創作料理,うなぎの刺身,ランチ,昼食,夕食" />
+        <meta name="keywords" content="うなぎ,ウナギ,鰻,和食,松月,福岡,朝倉,杷木,定食,創作料理,うなぎの刺身,ランチ,昼食,夕食" />
         <meta name="description" content={description} />
+        <meta name="thumbnail" content="img/thumbnail.jpg" />
         <meta property="og:url" content={url} />
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content={props.restaurantName + " HP"} />
