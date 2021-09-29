@@ -60,7 +60,7 @@ export default function HeaderMenu(props) {
       <nav className="flex justify-between sm:items-stretch sm:justify-start flex-wrap p-2">
         <div className="flex items-center flex-shrink-0 text-white mr-6">
           <img className="fill-current h-8 w-8 mr-2" width="32" height="32" src="img/logo_white.png" alt="ロゴ" />
-          <span className="font-semibold text-xl sm:text-2xl tracking-tight">{ props.restaurantName }</span>
+          <span className="font-semibold text-lg xs:text-xl sm:text-2xl tracking-tight">{ props.restaurantName }</span>
         </div>
 
         <div className="hidden sm:block">

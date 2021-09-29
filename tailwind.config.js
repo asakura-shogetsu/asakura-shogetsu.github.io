@@ -8,6 +8,9 @@ module.exports = {
         square: 'square',
         roman: 'upper-roman',
       },
+      screens: {
+        'xs': '360px',
+      },
     },
   },
   variants: {
