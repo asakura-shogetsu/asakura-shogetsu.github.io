@@ -6,10 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              営業時間は11〜15時・17〜22時となります。
+              11月の定休日は9（木）、20（月）、29（水）になります。年末年始は12/31・1/1の2日間、休業いたします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              11月の定休日は4（木）、15（月）、29（月）になります。
+              営業時間は11〜15時・17〜22時となります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               筑前朝倉蒸し雑煮、始めました。11月〜3月の間のご提供です。
