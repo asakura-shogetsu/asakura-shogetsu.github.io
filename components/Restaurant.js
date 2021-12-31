@@ -29,7 +29,7 @@ export default function Restaurant() {
             <li className="mb-1 font-bold">営業時間
               <ul className="font-normal">
                 <li>11:00〜15:00 / 17:00〜22:00<br />（ラストオーダー 21:30）</li>
-                <li className="text-red-500">※新型コロナウイルス感染拡大等により、営業時間が記載と異なる場合がございます。ご来店時は事前に店舗にご確認ください。</li>
+                <!-- li className="text-red-500">※新型コロナウイルス感染拡大等により、営業時間が記載と異なる場合がございます。ご来店時は事前に店舗にご確認ください。</li -->
               </ul>
             </li>
             <li className="mb-1 font-bold">支払い方法
