@@ -6,10 +6,13 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              本年も大変お世話になりました。年末年始は12/31・1/1の2日間、休業いたします。その他、1月の定休日は19（水）、26（水）、27（木）になります。クーポン各種ご利用できます。
+              新型コロナウイルス感染拡大等により、1/26〜2/20の営業時間は11〜20時まで・アルコールの提供は無しとなります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              筑前朝倉蒸し雑煮、始めました。11月〜3月の間のご提供です。
+              2月の定休日は8（火）、17（木）、23（水）になります。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              1/18放送「マツコの知らない世界」で紹介されました蒸し雑煮、3月までのご提供です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               あさくらペイのご利用が可能です。
