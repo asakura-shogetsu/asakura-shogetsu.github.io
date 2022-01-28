@@ -14,6 +14,9 @@ export default function HeaderMenu(props) {
           <a href="#representative-dishes" className="block mt-4 sm:inline-block sm:mt-2 sm:text-lg text-teal-200 hover:text-white mr-4">
             お品書き
           </a>
+          <a href="#media" className="block mt-4 sm:inline-block sm:mt-2 sm:text-lg text-teal-200 hover:text-white mr-4">
+            メディア掲載情報
+          </a>
           <a href="#restaurant" className="block mt-4 sm:inline-block sm:mt-2 sm:text-lg text-teal-200 hover:text-white">
             店舗情報
           </a>

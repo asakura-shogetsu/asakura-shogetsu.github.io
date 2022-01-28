@@ -9,13 +9,10 @@ export default function Notifications() {
               新型コロナウイルス感染拡大等により、1/26〜2/20の営業時間は11〜20時まで・アルコールの提供は無しとなります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              2月の定休日は8（火）、17（木）、23（水）になります。
+              2月の定休日は8（火）、17（木）、24（木）になります。各種クーポン利用可能です、朝倉振興券は2月10日までとなります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              1/18放送「マツコの知らない世界」で紹介されました蒸し雑煮、3月までのご提供です。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              あさくらペイのご利用が可能です。
+              <a href="#media" className="text-black">1/18放送「マツコの知らない世界」で紹介されました蒸し雑煮、3月までのご提供です。</a>
             </li>
           </ul>
         </div>

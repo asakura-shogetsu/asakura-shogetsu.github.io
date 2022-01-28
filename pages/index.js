@@ -6,6 +6,7 @@ import RecommendFoods from '../components/RecommendFoods'
 import RestaurantViews from '../components/RestaurantViews'
 import OtherMenus from '../components/OtherMenus'
 import Restaurant from '../components/Restaurant'
+import Media from '../components/Media'
 import Footer from '../components/Footer'
 
 
@@ -38,7 +39,12 @@ export default function Home() {
           </div>
         </div>
 
-        <div id="restaurant" className="bg-yellow w-full px-4 py-6">
+        <div id="media" className="bg-yellow w-full px-4 py-6">
+          <h2 className="text-2xl font-semibold mb-2 text-center">メディア掲載情報</h2>
+          <Media />
+        </div>
+
+        <div id="restaurant" className="bg-black w-full px-4 py-6">
           <h2 className="text-2xl font-semibold mb-2 text-center">店舗情報</h2>
           <RestaurantViews />
           <Restaurant />
