@@ -6,7 +6,7 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              3月の定休日は2（水）、14（月）、22（火）になります。各種クーポン利用可能です。
+              3月の定休日は2（水）、15（火）、22（火）になります。各種クーポン利用可能です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               新型コロナウイルス感染拡大等により、1/26〜3/6の営業時間は11〜20時まで・アルコールの提供は無しとなります。当店は、福岡県 感染防止認証店です。
