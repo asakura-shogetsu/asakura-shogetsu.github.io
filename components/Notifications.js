@@ -9,7 +9,7 @@ export default function Notifications() {
               3月の定休日は2（水）、15（火）、22（火）になります。各種クーポン利用可能です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              新型コロナウイルス感染拡大等により、1/26〜3/6の営業時間は11〜20時まで・アルコールの提供は無しとなります。当店は、福岡県 感染防止認証店です。
+              当店は福岡県 感染防止認証店です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               <a href="#media" className="text-black">1/18放送「マツコの知らない世界」で紹介されました蒸し雑煮、3月までのご提供です。</a>
