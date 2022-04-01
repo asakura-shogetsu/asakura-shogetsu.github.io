@@ -22,9 +22,6 @@ export default function Hero() {
           }}
         >
           <SwiperSlide>
-            <img src="img/hero/sp/zoni.jpg" alt="蒸し雑煮" />
-          </SwiperSlide>
-          <SwiperSlide>
             <img src="img/hero/sp/hero1.jpg" alt="松月御膳" />
           </SwiperSlide>
           <SwiperSlide>
