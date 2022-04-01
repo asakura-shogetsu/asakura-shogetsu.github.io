@@ -6,7 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              3月の定休日は2（水）、15（火）、22（火）になります。各種クーポン利用可能です。
+              4月の定休日は7（木）、13（水）夕方以降、18（月）、25（月）になります。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              蒸し雑煮・鰻しゃぶは3月末で終了いたしました。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               当店は福岡県 感染防止認証店です。
