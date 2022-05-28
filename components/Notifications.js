@@ -9,10 +9,10 @@ export default function Notifications() {
               6月の定休日は8（水）、14（火）、22（水）、29（水）になります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              当店は福岡県 感染防止認証店です。
+              蒸し雑煮・鰻しゃぶは3月末で終了いたしました。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              <a href="#media" className="text-black">1/18放送「マツコの知らない世界」で紹介されました蒸し雑煮、3月までのご提供です。</a>
+              当店は福岡県 感染防止認証店です。
             </li>
           </ul>
         </div>
