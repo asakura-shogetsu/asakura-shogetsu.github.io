@@ -6,7 +6,7 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              7月の定休日は6（水）、13（水）、19（火）、26（火）になります。
+              8月の定休日は3（水）、6（土）の夜の部、15（月）、18（木）、25（木）になります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               蒸し雑煮・鰻しゃぶは3月末で終了いたしました。
