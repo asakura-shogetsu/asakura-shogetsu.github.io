@@ -1,6 +1,6 @@
 export default function Restaurant() {
   return (
-    <div className="mx-2 lg:mx-10 md:mx-5">
+    <div className="mx-2 lg:mx-10 md:mx-5 p-2">
       <div className='flex gap-y-4 justify-center flex-wrap p-4'>
         <div className="full lg:w-1/2 md:w-full grid">
           <ul className="list-disc">
