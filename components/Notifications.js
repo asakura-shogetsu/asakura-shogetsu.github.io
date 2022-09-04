@@ -6,7 +6,8 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              9/2（金）まで臨時休業致します。9/3（土）より開店します。
+              9月の定休日は7（水）、12（月）、21（水）、26（月）になります。<br />
+              9月以降、うなぎ料理を値上げさせていただいております、ご了承ください。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               蒸し雑煮・鰻しゃぶは3月末で終了いたしました。
