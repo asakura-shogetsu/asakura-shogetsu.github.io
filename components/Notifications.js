@@ -10,6 +10,9 @@ export default function Notifications() {
               11月以降、蒸し雑煮・鰻しゃぶ・その他鍋ものを始めます。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
+              メニュー・金額に一部変更がございます。ご来店の際にご確認ください。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
               当店は福岡県 感染防止認証店です。
             </li>
           </ul>
