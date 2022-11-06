@@ -6,7 +6,7 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              10月の定休日は5（水）、17（月）、23（日）、24（月）になります。<br />
+              11月の定休日は2（水）、7（月）、16（水）、23（水）になります。<br />
               11月以降、蒸し雑煮・鰻しゃぶ・その他鍋ものを始めました。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
