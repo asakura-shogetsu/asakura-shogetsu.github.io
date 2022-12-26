@@ -6,9 +6,11 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              12月の定休日は10（土）、21（水）、30（金）、31（土）になります。<br />
-              7（水）、14（水）は昼のみの営業となります<br />
-              お正月は1/2から営業いたします。
+              1月の定休日は1（日）、11（水）、24（火）、25（水）、26（木）になります。<br />
+              蒸し雑煮・鰻しゃぶの美味しい季節です。ご来店の際は、ぜひご賞味ください。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              12月の定休日は10（土）、21（水）、30（金）、31（土）になります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               11月以降、蒸し雑煮・鰻しゃぶ・その他鍋ものを始めました。
