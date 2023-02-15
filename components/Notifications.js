@@ -6,8 +6,12 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              2月の定休日は1（水）、8（水）、15（水）、22（水）になります。<br />
+              3月の定休日は8（水）、15（水）、22（水）、27（月）になります。<br />
+              うまかけん福岡、避密の旅の電子クーポンのみご利用いただけます。< br />
               蒸し雑煮・鰻しゃぶは、3月までの冬メニューです。ご来店の際は、ぜひご賞味ください。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              2月の定休日は1（水）、8（水）、15（水）、22（水）になります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               1月の定休日は1（日）、11（水）、24（火）、25（水）、26（木）になります。
