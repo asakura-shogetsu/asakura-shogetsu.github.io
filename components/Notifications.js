@@ -14,12 +14,6 @@ export default function Notifications() {
               2月の定休日は1（水）、8（水）、15（水）、22（水）になります。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              1月の定休日は1（日）、11（水）、24（火）、25（水）、26（木）になります。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              11月以降、蒸し雑煮・鰻しゃぶ・その他鍋ものを始めました。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
               メニュー・金額に一部変更がございます。ご確認ください。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
