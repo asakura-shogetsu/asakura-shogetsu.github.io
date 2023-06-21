@@ -6,17 +6,17 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              6月の定休日は1（木）、8（木）、14（水）、21（水）、26（月）です。<br />
-              うまかけん福岡、避密の旅の電子クーポンのみご利用いただけます。テイクアウトもお尋ねください。
+              7月の定休日は5（水）、13（木）、20（木）、27（木）です。<br />
+              7月30日（日）は「土用の丑の日」です。スタッフ一同ご来店をお待ちしております。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              4月の定休日は21（金）、26（水）です。
+              朝倉振興券、朝倉ペイ、旅行支援のご利用が可能です。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              6月の定休日は21（水）、27（火）です。（26日から27日へ変更となりました、ご了承ください。）
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               メニュー・金額に一部変更がございます。ご確認ください。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              当店は福岡県 感染防止認証店です。
             </li>
           </ul>
         </div>
