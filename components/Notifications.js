@@ -6,14 +6,11 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              7月の定休日は5（水）、13（木）、20（木）、27（木）です。<br />
-              7月30日（日）は「土用の丑の日」です。スタッフ一同ご来店をお待ちしております。
+              8月の定休日は3（木）、8（火）、15（火）、24（木）、30（水）、31（木）です（お盆期間中の定休日は15日のみです）。<br />
+              朝倉振興券、朝倉ペイのご利用が可能です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              朝倉振興券、朝倉ペイ、旅行支援のご利用が可能です。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              6月の定休日は21（水）、27（火）です。（26日から27日へ変更となりました、ご了承ください。）
+              7月の定休日は27（木）です。7月30日（日）は「土用の丑の日」です。スタッフ一同ご来店をお待ちしております。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               メニュー・金額に一部変更がございます。ご確認ください。
