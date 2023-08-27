@@ -6,12 +6,17 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              7/30のももち浜ストアにて当店が紹介されました。<br />
-              8/1より、一部料金の変更がございます。詳細は店舗メニューにてご確認ください（本ページの料金は追って修正予定です）。
+              8/1以降、食材・仕入れの値上げにより値上げをしております。ご迷惑をおかけ致しますが、ご来店時・電話にて料金の確認をお願いします（本ページの料金は追って修正予定です）。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              8月の定休日は3（木）、8（火）、15（火）、24（木）、30（水）、31（木）です（お盆期間中の定休日は15日のみです）。<br />
+              9月の定休日は、6（水）、13（水）、17（日）、25（月）です。<br />
               朝倉振興券、朝倉ペイのご利用が可能です。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              8月の定休日は、30（水）、31（木）です。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              7/30のももち浜ストアにて当店が紹介されました。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               メニュー・金額に一部変更がございます。ご確認ください。

@@ -22,6 +22,7 @@ export default function RecommendFoods() {
     <div className="py-6">
       <h2 className="text-2xl font-semibold mb-5 text-center">お品書き</h2>
       <p className="text-center">
+        ※8/1以降、食材・仕入れの値上げにより値上げをしております。ご迷惑をおかけ致しますが、ご来店時・電話にて料金の確認をお願いします（本ページの料金は追って修正予定です）。<br />
         ※表示価格は税込みです。<br />
         ※季節により写真と内容が変わる事があります。
       </p>
