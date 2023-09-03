@@ -13,10 +13,7 @@ export default function Notifications() {
               朝倉振興券、朝倉ペイのご利用が可能です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              7/30のももち浜ストアにて当店が紹介されました。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              メニュー・金額に一部変更がございます。ご確認ください。
+              7/31のももち浜ストアにて当店が紹介されました。
             </li>
           </ul>
         </div>
