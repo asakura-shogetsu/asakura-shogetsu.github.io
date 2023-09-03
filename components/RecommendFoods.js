@@ -22,7 +22,6 @@ export default function RecommendFoods() {
     <div className="py-6">
       <h2 className="text-2xl font-semibold mb-5 text-center">お品書き</h2>
       <p className="text-center">
-        ※8/1以降、食材・仕入れの値上げにより値上げをしております。ご迷惑をおかけ致しますが、ご来店時・電話にて料金の確認をお願いします（本ページの料金は追って修正予定です）。<br />
         ※表示価格は税込みです。<br />
         ※季節により写真と内容が変わる事があります。
       </p>
@@ -31,27 +30,27 @@ export default function RecommendFoods() {
         <Card
           pic="img/food/food1.jpg"
           title="うなぎ定食 <松>"
-          price="3,600円"
+          price="3,800円"
           description="カリッと焼き目のついたうなぎの蒲焼きをご堪能ください。" />
         <Card
           pic="img/food/food2.jpg"
           title="セイロ蒸し <松>"
-          price="2,400円"
+          price="2,600円"
           description="うなぎの蒲焼きと錦糸卵をタレに絡めたご飯の上に乗せて蒸し上げました。" />
         <Card
           pic="img/food/food3.jpg"
           title="うな丼"
-          price="1,750円"
+          price="1,950円"
           description="うなぎの蒲焼きとタレの絡んだご飯。山芋との食感もお楽しみください。" />
         <Card
           pic="img/food/food4.jpg"
           title="うなぎの刺身"
-          price="3,700円"
+          price="3,900円"
           description="当店人気の珍味とも言える刺身。フグの食感にも似た脂ののった味が好評です。" />
         <Card
           pic="img/food/food6.jpg"
           title="刺身定食"
-          price="1,650円"
+          price="1,760円"
           description="刺身盛り・小鉢2品・お吸物・白飯・香の物" />
         <Card
           pic="img/food/food5.jpg"
