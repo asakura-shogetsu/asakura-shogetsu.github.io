@@ -10,6 +10,9 @@ export default function Notifications() {
               朝倉振興券、朝倉ペイのご利用が可能です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
+              大将がバイク好きのため、バイクで来店されたお客様に限りコーヒー1杯サービスを始めました。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
               7/31のももち浜ストアにて当店が紹介されました。
             </li>
           </ul>
