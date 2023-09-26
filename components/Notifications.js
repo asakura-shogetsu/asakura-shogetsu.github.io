@@ -6,11 +6,11 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              8/1以降、食材・仕入れの値上げにより値上げをしております。ご迷惑をおかけ致しますが、新料金の確認をお願いします。
+              9月の定休日は、3（火）、12（木）、22（日）、23（月）です。<br />
+              朝倉振興券、朝倉ペイのご利用が可能です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              9月の定休日は、6（水）、13（水）、17（日）、25（月）です。<br />
-              朝倉振興券、朝倉ペイのご利用が可能です。
+              8/1以降、食材・仕入れの値上げにより値上げをしております。ご迷惑をおかけ致しますが、新料金の確認をお願いします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               7/31のももち浜ストアにて当店が紹介されました。
