@@ -6,8 +6,9 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              12月の定休日は6（水）、14（木）、21（木）、30（土）、31（日）です。<br />
-              年末は12/29まで、年始は1/2からの営業となります。
+              12月の定休日は30（土）、31（日）です。<br />
+              年末は12/29まで、年始は1/2からの営業となります。<br />
+              1月の定休日は1（月）、8（月）、17（水）、18（木）、24（水）、31（水）です。<br />
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
