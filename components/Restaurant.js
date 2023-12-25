@@ -21,7 +21,7 @@ export default function Restaurant() {
                 <li>杷木バスセンターから徒歩約3分</li>
               </ul>
             </li>
-            <li className="mb-1 font-bold">定休日
+            <li className="mb-1 font-bold">店休日
               <ul className="font-normal">
                 <li>不定休</li>
               </ul>
