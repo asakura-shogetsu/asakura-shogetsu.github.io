@@ -6,7 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              1月の店休日は1（月）、8（月）、17（水）、18（木）、24（水）、31（水）です。
+              2月の店休日は8（木）、21（水）、28（水）です。また、14（水）・15（木）はランチ時間のみの営業です。よろしくお願いいたします。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              1月の店休日は31（水）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
