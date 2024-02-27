@@ -34,7 +34,7 @@ export default function Restaurant() {
             </li>
             <li className="mb-1 font-bold">支払い方法
               <ul className="font-normal">
-                <li>カード可、電子マネー可（au PAY・d払い・メルペイ・PayPay・あさくらペイ）</li>
+                <li>カード可、電子マネー可（au PAY・d払い・メルペイ・PayPay）</li>
               </ul>
             </li>
             <li className="mb-1 font-bold">駐車場
