@@ -9,9 +9,6 @@ export default function Notifications() {
               3月の店休日は7（木）、14（木）、20（水）、21（木）、27（水）です。冬限定の鍋料理・蒸し雑煮は3月で終了します。次回は11月からです。よろしくお願いします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              2月の店休日は21（水）、28（水）です。よろしくお願いいたします。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
