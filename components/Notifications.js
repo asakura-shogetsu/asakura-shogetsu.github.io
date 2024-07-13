@@ -13,7 +13,7 @@ export default function Notifications() {
               今年の土用の丑の日は、7月24日（水）・8月5日（月）の2回です。ご来店をお待ちしております。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              <a href="#media" >雑誌「ソワニエ+ vol.86 2024年7・8月号」に当店が紹介されております。ぜひご覧ください。</a>
+              <a href="#media" className="text-black">雑誌「ソワニエ+ vol.86 2024年7・8月号」に当店が紹介されております。ぜひご覧ください。</a>
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
