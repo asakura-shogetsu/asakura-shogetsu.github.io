@@ -6,7 +6,7 @@ export default function OtherMedias() {
 
     return (
       <div className='full 2xl:w-1/3 lg:w-1/2 grid justify-items-center'>
-        <p className="text-base">{description}</p>
+        <p className="text-base mb-1">{description}</p>
         <div className="max-w-lg overflow-hidden border-solid border-2 border-white">
           <img className="w-full" src={pic} alt={title} />
         </div>
