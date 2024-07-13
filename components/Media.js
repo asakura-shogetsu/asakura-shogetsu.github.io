@@ -18,7 +18,7 @@ export default function Media() {
     <div className="py-2">
       <div className='flex gap-y-8 justify-center flex-wrap p-4'>
         <Card
-          pic="img/media/media1.jpg" title="メディア掲載_マツコの知らない世界" description="1/18放送「マツコの知らない世界」で当店の「蒸し雑煮」が紹介されました。" />
+          pic="img/media/soigner.jpg" title="メディア掲載_ソワニエ+" description="「ソワニエ+ vol.86 2024年7・8月号」で当店が紹介されました。" />
       </div>
     </div>
   )
