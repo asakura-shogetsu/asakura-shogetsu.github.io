@@ -6,6 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
+              うなぎの仕入れ価格高騰のため、9月1日より一部メニューの値上げをさせて頂きます。お客様にはご迷惑をお掛けいたしますが、何卒よろしくお願いいたします。<br />
+              金額の詳細は、<a href="#representative-dishes" className="text-black">お品書き</a>にてご確認ください。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
               9月の店休日は4（水）、11（水）、19（木）、25（水）です。<br />
               朝倉振興券・朝倉ペイ、利用可能です。皆様のご来店をお待ちしております。
             </li>
