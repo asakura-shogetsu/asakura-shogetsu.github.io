@@ -6,15 +6,13 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
+              9月の店休日は25（水）です。10月の店休日は3（木）、10（木）、16（水）、23（水）、24（木）、30（水）です。<br />
+              朝倉振興券・朝倉ペイ、利用可能です。皆様のご来店をお待ちしております。<br />
+              11月より蒸し雑煮・鰻しゃぶを始めます。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
               うなぎの仕入れ価格高騰のため、9月1日より一部メニューの値上げをさせて頂きます。お客様にはご迷惑をお掛けいたしますが、何卒よろしくお願いいたします。<br />
               金額の詳細は、<a href="#representative-dishes" className="text-black">お品書き</a>にてご確認ください。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              9月の店休日は4（水）、11（水）、19（木）、25（水）です。<br />
-              朝倉振興券・朝倉ペイ、利用可能です。皆様のご来店をお待ちしております。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              8月の店休日は28（水）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               <a href="#media" className="text-black">雑誌「ソワニエ+ vol.86 2024年7・8月号」に当店が紹介されております。ぜひご覧ください。</a>
