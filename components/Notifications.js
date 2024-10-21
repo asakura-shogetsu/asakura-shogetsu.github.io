@@ -6,7 +6,7 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              11月の店休日は6（水）、14（木）、17（日）の夜、18（月）、27（水）です。<br />
+              11月の店休日は6（水）、14（木）、17（日）の夜（昼のみの営業）、18（月）、27（水）です。<br />
               朝倉振興券・朝倉ペイ、利用可能です。皆様のご来店をお待ちしております。<br />
               11月より蒸し雑煮・鰻しゃぶを始めます。
             </li>
