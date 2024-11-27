@@ -6,16 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              11月22日（金）から3日間を10周年記念感謝デーとして、ご来店の皆様にささやかなプレゼントをご用意しています。皆様のご来店をお待ちしております。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              11月の店休日は14（木）、17（日）の夜（昼のみの営業）、18（月）、27（水）です。<br />
-              朝倉振興券・朝倉ペイ、利用可能です。皆様のご来店をお待ちしております。<br />
-              11月より蒸し雑煮・鰻しゃぶを始めます。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              うなぎの仕入れ価格高騰のため、9月1日より一部メニューの値上げをさせて頂きます。お客様にはご迷惑をお掛けいたしますが、何卒よろしくお願いいたします。<br />
-              金額の詳細は、<a href="#representative-dishes" className="text-black">お品書き</a>にてご確認ください。
+              12月の店休日は4（水）、11（水）の夜（昼のみの営業）、19（木）、30（月）、31（火）です。<br />
+              新年は1月2日より営業いたします<br />
+              お鍋の美味しい時期になりました。鰻しゃぶ・かも鍋・鰻入りの蒸し雑煮はいかがでしょうか。忘年会・新年会のご予約、承っております。<br />
+              朝倉振興券・朝倉ペイ、利用可能です。皆様のご来店をお待ちしております。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               <a href="#media" className="text-black">雑誌「ソワニエ+ vol.86 2024年7・8月号」に当店が紹介されております。ぜひご覧ください。</a>
