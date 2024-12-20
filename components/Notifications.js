@@ -6,6 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
+              1月の店休日は1（水）、8（水）、15（水）、23（木）、28（火）、29（水）です。<br />
+              朝倉ペイは12月31日までです。来年も皆様のお越しをお待ちしております。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
               12月の店休日は4（水）、11（水）の夜（昼のみの営業）、19（木）、25（水）、30（月）、31（火）です。<br />
               新年は1月2日より営業いたします<br />
               お鍋の美味しい時期になりました。鰻しゃぶ・かも鍋・鰻入りの蒸し雑煮はいかがでしょうか。忘年会・新年会のご予約、承っております。<br />
