@@ -6,17 +6,11 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              1月の店休日は1（水）、8（水）、15（水）、23（木）、28（火）、29（水）です。<br />
-              朝倉ペイは12月31日までです。来年も皆様のお越しをお待ちしております。
+              2月の店休日は5（水）、13（木）、19（水）、27（木）です。<br />
+              蒸し雑煮・鰻しゃぶは3月までの限定メニューです、よろしくお願いします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              12月の店休日は4（水）、11（水）の夜（昼のみの営業）、19（木）、25（水）、30（月）、31（火）です。<br />
-              新年は1月2日より営業いたします<br />
-              お鍋の美味しい時期になりました。鰻しゃぶ・かも鍋・鰻入りの蒸し雑煮はいかがでしょうか。忘年会・新年会のご予約、承っております。<br />
-              朝倉振興券・朝倉ペイ、利用可能です。皆様のご来店をお待ちしております。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
-              <a href="#media" className="text-black">雑誌「ソワニエ+ vol.86 2024年7・8月号」に当店が紹介されております。ぜひご覧ください。</a>
+              1月の店休日は23（木）、28（火）、29（水）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
