@@ -6,7 +6,11 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              3月の店休日は6（木）、13（木）、15（土）夜（昼のみの営業）、24（月）夜（昼のみの営業）、25（火）です。<br />
+              4月の店休日は3（木）、9（水）、16（水）、24（木）、30（水）です。<br />
+              冬限定の蒸し雑煮・鍋料理は3月で終了します。ありがとうございました。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              3月の店休日は24（月）夜（昼のみの営業）、25（火）です。<br />
               蒸し雑煮・鰻しゃぶは3月までの限定メニューです、よろしくお願いします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
