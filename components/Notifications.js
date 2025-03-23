@@ -14,9 +14,6 @@ export default function Notifications() {
               蒸し雑煮・鰻しゃぶは3月までの限定メニューです、よろしくお願いします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              2月の店休日は27（木）です。
-            </li>
-            <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
