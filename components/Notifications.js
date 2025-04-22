@@ -6,12 +6,11 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              4月の店休日は3（木）、9（水）、16（水）、24（木）、30（水）です。<br />
-              冬限定の蒸し雑煮・鍋料理は3月で終了します。ありがとうございました。
+              5月の店休日は7（水）、8（木）、14（水）、21（水）、28（水）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              3月の店休日は24（月）夜（昼のみの営業）、25（火）です。<br />
-              蒸し雑煮・鰻しゃぶは3月までの限定メニューです、よろしくお願いします。
+              4月の店休日は24（木）、30（水）です。<br />
+              冬限定の蒸し雑煮・鍋料理は3月で終了します。ありがとうございました。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
