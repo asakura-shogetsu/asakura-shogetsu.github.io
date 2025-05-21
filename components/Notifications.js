@@ -6,11 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              5月の店休日は7（水）、8（木）、15（木）、21（水）、28（水）です。
+              6月の店休日は5（木）、11（水）、18（水）、25（水）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              4月の店休日は30（水）です。<br />
-              冬限定の蒸し雑煮・鍋料理は3月で終了します。ありがとうございました。
+              5月の店休日は28（水）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
