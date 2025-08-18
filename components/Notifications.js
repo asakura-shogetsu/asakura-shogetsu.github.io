@@ -6,10 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              8月の店休日は7（木）、15（金）、18（月）、19（火）、27（水）です。15、18、19はお盆休みです。<br />朝倉振興券・朝倉ペイ、ご利用可能です。
+              9月の店休日は3（水）、10（水）、17（水）、24（水）の夜（昼のみ営業）、25（木）です。<br />朝倉振興券・朝倉ペイ・各種クレジット、ご利用可能です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
-              7月の店休日は29（火）です。
+              8月の店休日は18（月）、19（火）、27（水）です。18、19はお盆休みです。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               ご来店の際は、お電話にて席の空き状況をお確かめください。状況次第でお待たせしてしまう場合がございます。
