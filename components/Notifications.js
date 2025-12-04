@@ -6,7 +6,7 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              12月の店休日は2（火）の夜（昼のみ営業）、3（水）の昼（夜のみ営業）、11（木）、17（水）の夜（昼のみ営業）、24（水）、30（火）、31（水）です。<br />蒸し雑煮・鰻しゃぶが美味しい季節になりました。新年会受け付けておりますので、よろしくお願いいたします。
+              12月の店休日は11（木）、17（水）の夜（昼のみ営業）、24（水）、30（火）、31（水）です。<br />蒸し雑煮・鰻しゃぶが美味しい季節になりました。忘年会・新年会受け付けておりますので、よろしくお願いいたします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               物価高騰のため、鍋料理の値段をやむを得ず1割値上げさせていただきます。大変ご迷惑をお掛けいたしますが、ご理解いただきますようお願いいたします。
