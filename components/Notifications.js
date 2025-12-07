@@ -6,6 +6,9 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
+              12月10（水）の夜は臨時休業いたします、よろしくお願いいたします。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
               12月の店休日は11（木）、17（水）の夜（昼のみ営業）、24（水）、30（火）、31（水）です。<br />蒸し雑煮・鰻しゃぶが美味しい季節になりました。忘年会・新年会受け付けておりますので、よろしくお願いいたします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
