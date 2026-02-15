@@ -6,8 +6,9 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              1月の店休日は28（水）です。2月の店休日は5（木）、12（木）、18（水）、26（木）です。<br />
-              蒸し雑煮・鰻しゃぶが美味しい季節です、よろしくお願いいたします。
+              2月の店休日は18（水）、26（木）です。<br />
+              3月の店休日は5（木）、11（水）、18（水）、26（木）です。<br />
+              蒸し雑煮・鰻しゃぶは3月までの冬メニューですので、よろしくお願いします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4 text-red-500 font-bold">
               鰻の刺身・洗いは特別な処理が必要なため、予約をお願いします。
