@@ -17,6 +17,11 @@ export default function Media() {
   return (
     <div className="py-2">
       <div className='flex gap-y-8 justify-center flex-wrap p-4'>
+        <div className='full 2xl:w-1/3 lg:w-1/2 grid justify-items-center'>
+          <p className="text-base mb-1">2026/4/24（金）のももち浜ストアにて当店の「鰻のネギ丼」が紹介されました。</p>
+        </div>
+      </div>
+      <div className='flex gap-y-8 justify-center flex-wrap p-4'>
         <Card
           pic="img/media/soigner.jpg" title="メディア掲載_ソワニエ+" description="「ソワニエ+ vol.86 2024年7・8月号」で当店が紹介されました。" />
       </div>
