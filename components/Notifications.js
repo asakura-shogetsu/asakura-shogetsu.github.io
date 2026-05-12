@@ -6,8 +6,7 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              4月の店休日は29（水）です。5月の店休日は7（木）、14（木）、20（水）〜21（木）、27（水）です。<br />
-              5月のゴールデンウィークは休まず営業します、ご来店をお待ちしております。
+              5月の店休日は13（水）の夜（昼のみ営業）、14（木）、20（水）の夜（昼のみ営業）、21（木）、27（水）の夜（昼のみ営業）、28（木）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4 text-red-500 font-bold">
               鰻の刺身・洗いは特別な処理が必要なため、予約をお願いします。
