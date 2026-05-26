@@ -6,7 +6,11 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              5月の店休日は13（水）の夜（昼のみ営業）、14（木）、20（水）の夜（昼のみ営業）、21（木）、27（水）の夜（昼のみ営業）、28（木）です。
+              6月の店休日は3（水）の夜（昼のみ営業）、4（木）、10（水）、18（木）、24（水）の夜（昼のみ営業）、25（木）です。<br />
+              大変恐縮ですが、6月1日より値上げを行います。HPの更新が追いついていませんので、詳細はお電話にてご確認ください。
+            </li>
+            <li className="border-dotted border-b-2 border-black my-4">
+              5月の店休日は27（水）の夜（昼のみ営業）、28（木）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4 text-red-500 font-bold">
               鰻の刺身・洗いは特別な処理が必要なため、予約をお願いします。
