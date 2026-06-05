@@ -30,32 +30,32 @@ export default function RecommendFoods() {
         <Card
           pic="img/food/food1.jpg"
           title="うなぎ定食 <松>"
-          price="4,000円"
+          price="4,100円"
           description="カリッと焼き目のついたうなぎの蒲焼きをご堪能ください。" />
         <Card
           pic="img/food/food2.jpg"
           title="セイロ蒸し <松>"
-          price="2,800円"
+          price="3,000円"
           description="うなぎの蒲焼きと錦糸卵をタレに絡めたご飯の上に乗せて蒸し上げました。" />
         <Card
           pic="img/food/food3.jpg"
           title="うな丼"
-          price="2,000円"
+          price="2,200円"
           description="うなぎの蒲焼きとタレの絡んだご飯。山芋との食感もお楽しみください。" />
         <Card
           pic="img/food/food4.jpg"
           title="うなぎの刺身"
-          price="4,000円"
+          price="4,200円"
           description="当店人気の珍味とも言える刺身。フグの食感にも似た脂ののった味が好評です。" />
         <Card
           pic="img/food/food6.jpg"
           title="刺身定食"
-          price="1,760円"
+          price="1,850円"
           description="刺身盛り・小鉢2品・お吸物・白飯・香の物" />
         <Card
           pic="img/food/food5.jpg"
           title="会席料理"
-          price="4,000円"
+          price="4,500円"
           description="お祝い・法要等の会席料理もご予約承ります。四季折々の旬の食材をお楽しみください。※その他、ご予算ご希望に応じます。お気軽にご相談ください。" />
 
       </div>

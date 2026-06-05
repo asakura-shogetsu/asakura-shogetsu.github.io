@@ -8,8 +8,7 @@ export default function Notifications() {
             <li className="border-dotted border-b-2 border-black my-4">
               お客様へ<br />
               大変恐縮ですが、物価高騰の折6月1日より商品の一部値上げを考えております。<br />
-              どうぞ御理解の程、何卒よろしくお願いいたします。<br />
-              なお、HPの更新が追いついていませんので、詳細はお電話にてご確認ください。
+              どうぞ御理解の程、何卒よろしくお願いいたします。
             </li>
             <li className="border-dotted border-b-2 border-black my-4">
               5月の店休日は28（木）です。<br />
