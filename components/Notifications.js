@@ -6,8 +6,8 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              7月の店休日は27（月）、30（木）です。<br />
-              8月の店休日は6（木）、15（土）、16（日）、19（水）、27（木）です。
+              8月の店休日は27（木）です。<br />
+              9月の店休日は3（木）、9（水）、16（水）、24（木）、30（水）です。
             </li>
             <li className="border-dotted border-b-2 border-black my-4 text-red-500 font-bold">
               鰻の刺身・洗いは特別な処理が必要なため、予約をお願いします。
