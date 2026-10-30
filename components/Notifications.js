@@ -6,8 +6,8 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              9月の店休日は30（水）です。<br />
-              10月の店休日は7（水）、14（水）の午後（昼のみ営業）、15（木）、22（木）、29（木）です。
+              11月の店休日は4（水）、12（木）、18（水）、24（火）、25（水）です。<br />
+              11月から蒸し雑煮が始まります。鍋料理は11月半ばを予定しています。
             </li>
             <li className="border-dotted border-b-2 border-black my-4 text-red-500 font-bold">
               鰻の刺身・洗いは特別な処理が必要なため、予約をお願いします。
