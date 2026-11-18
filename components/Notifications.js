@@ -6,8 +6,10 @@ export default function Notifications() {
         <div className='notifications-box w-full lg:w-1/2'>
           <ul className="list-none px-4 py-2">
             <li className="border-dotted border-b-2 border-black my-4">
-              11月の店休日は4（水）、12（木）、18（水）、24（火）、25（水）です。<br />
-              11月から蒸し雑煮が始まります。鍋料理は11月半ばを予定しています。
+              11月の店休日は24（火）、25（水）です。<br />
+              12月の店休日は2（水）、9（水）、16（水）、24（木）、30（水）、31（木）です。<br />
+              年始は2日から営業します。<br />
+              蒸し雑煮と鰻しゃぶの美味しい季節になりました。また、忘年会・新年会のご予約、承っています。皆様のご来店、スタッフ一同お待ちしております。
             </li>
             <li className="border-dotted border-b-2 border-black my-4 text-red-500 font-bold">
               鰻の刺身・洗いは特別な処理が必要なため、予約をお願いします。
